@@ -15,6 +15,7 @@ namespace GitSampleApp.Controllers
     [Authorize]
     public class AccountController : Controller
     {
+        //Test edit
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
